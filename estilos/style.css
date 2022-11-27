@@ -15,11 +15,12 @@ body{
     background: url(imagens/fundo-madeira.jpg) no-repeat top center;
     background-size: cover;
     background-attachment: fixed;
+    color:aqua;
 }
 main{
     position: relative;
     height: 96vh;
-    color:aqua;
+    
     
 }
 
@@ -42,7 +43,7 @@ iframe#tela{
 section#redes-sociais{
     text-align: right;
 }
-section#redes-sociais img{
+section#redes-sociais > a > img{
     width: 50px;
     margin: 10px;
     border-radius: 50%;
