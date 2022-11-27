@@ -43,7 +43,7 @@ iframe#tela{
 section#redes-sociais{
     text-align: right;
 }
-section#redes-sociais > a > img{
+section#redes-sociais  img{
     width: 50px;
     margin: 10px;
     border-radius: 50%;
